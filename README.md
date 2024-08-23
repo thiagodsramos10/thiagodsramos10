@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**thiagodsramos10/thiagodsramos10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+meu nome é Thiago
+tenho 15 anos
+meu aniversario é 10/02/2009
+minha comida favorita é strogonoff de frango
+minha sobremesa favorita é açaí
+esporte favorito no momento volei
+lugar que mais gosto de ir é park de diversões e shopping
+pretendo aprender a lingua inglesa (fluente)
+meta viajar para os Estados unidos ou na europa
+tenho 3 irmãos 
